@@ -15,8 +15,5 @@ Transfer Skin Weights
 -Use Import Skin Data to apply to new meshes, even across scenes.
 
 # Technical Details
--Language: Python
--UI: PySide2 (Qt-based)
--API: maya.cmds, maya.api.OpenMaya
--Formats Supported: .json, .map
+-Formats Supported: .json
 -Compatibility: Maya 2020–2026 tested
