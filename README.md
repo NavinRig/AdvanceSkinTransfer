@@ -35,6 +35,6 @@
 - Clean and organized frame layout for easy workflow
 
 # Requirements
- Autodesk Maya 2018 or later
- Python 3.x (built-in with Maya)
- No external libraries required
+- Autodesk Maya 2018 or later
+- Python 3.x (built-in with Maya)
+- No external libraries required
